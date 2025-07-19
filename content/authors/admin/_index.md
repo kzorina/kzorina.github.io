@@ -138,7 +138,7 @@ languages:
 awards:
   - title: Best Poster Award, 2nd NAVER LABS Europe International Workshop on AI for Robotics 
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2021'
+    date: 2021
     awarder:  NAVER LABS
     # summary: |
     #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
