@@ -12,6 +12,8 @@ publication_types:
 publication: '*IEEE Robotics and Automation Letters*'
 doi: 10.1109/LRA.2021.3127238
 featured: true
+abstract: "A seamless integration of robots into human environments requires robots to learn how to use existing human tools. Current approaches for learning tool manipulation skills mostly rely on expert demonstrations provided in the target robot environment, for example, by manually guiding the robot manipulator or by teleoperation. In this work, we introduce an automated approach that replaces an expert demonstration with a Youtube video for learning a tool manipulation strategy.
+The main contributions are twofold. First, we design an alignment procedure that aligns the simulated environment with the real-world scene observed in the video. This is formulated as an optimization problem that finds a spatial alignment of the tool trajectory to maximize the sparse goal reward given by the environment. Second, we describe an imitation learning approach that focuses on the trajectory of the tool rather than the motion of the human. For this we combine reinforcement learning with an optimization procedure to find a control policy and the placement of the robot based on the tool motion in the aligned environment. We demonstrate the proposed approach on spade, scythe and hammer tools in simulation, and show the effectiveness of the trained policy for the spade on a real Franka Emika Panda robot demonstration."
 tags:
 - Tools;Robots;Task analysis;Three-dimensional displays;Reinforcement learning;Trajectory
   optimization;Streaming media;Reinforcement learning;robotics;manipulation;imitation
