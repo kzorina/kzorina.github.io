@@ -64,7 +64,7 @@ education:
       Thesis: Building segment-based revenue prediction for CLV model
       Supervisor: Oleksandr Romanko
   - area: BSc Computer science
-    institution: IASA of the NTU “Igor Sikorsky Kyiv Polytechnic Institute, Kyiv, Ukraine
+    institution: IASA of the NTU "Igor Sikorsky Kyiv Polytechnic Institute", Kyiv, Ukraine
     date_start: 2013-09-01
     date_end: 2017-06-01
     summary: |
@@ -85,7 +85,7 @@ work:
     date_start: 2020-09-01
     date_end: 2025-01-01
     summary: |
-      Courses taught: PKR - Advanced Robot Kinematics (2020-2025); Geometry of Computer Vision and Graphics 2021.
+      Courses taught: Advanced Robot Kinematics (2020-2025); Geometry of Computer Vision and Graphics 2021.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -164,4 +164,4 @@ awards:
 
 ## About Me
 
-I am a final-year PhD candidate at CIIRC, CTU in Prague, researching the learning of robotic manipulation skills from human instructional videos. My work focuses on extracting structured information from videos and applying it in the robot learning frameworks and planning algorithms. Currently, I am seeking a postdoc or research scientist role in robotics, AI, or embodied intelligence.
+I am a final-year PhD candidate at CIIRC, CTU in Prague, working on learning robotic manipulation skills from human instructional videos. My work focuses on extracting structured information from videos and applying it in the robot learning frameworks and planning algorithms. Currently, I am seeking a postdoc or research scientist role in robotics, AI, or embodied intelligence.
