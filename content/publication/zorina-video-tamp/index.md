@@ -18,7 +18,8 @@ featured: true
 abstract: "This work aims to leverage instructional video to solve complex multi-step task-and-motion planning tasks in robotics. Towards this goal, we propose an extension of the well-established RRT planner, which simultaneously grows multiple trees around grasp and release states extracted from the guiding video. Our key novelty lies in combining contact states and 3D object poses extracted from the guiding video with a traditional planning algorithm that allows us to solve tasks with sequential dependencies, for example, if an object needs to be placed at a specific location to be grasped later. We also investigate the generalization capabilities of our approach to go beyond the scene depicted in the instructional video. To demonstrate the benefits of the proposed video-guided planning approach, we design a new benchmark with three challenging tasks: (i) 3D re-arrangement of multiple objects between a table and a shelf, (ii) multi-step transfer of an object through a tunnel, and (iii) transferring objects using a tray similar to a waiter transfers dishes. We demonstrate the effectiveness of our planning algorithm on several robots, including the Franka Emika Panda and the KUKA KMR iiwa. For a seamless transfer of the obtained plans to the real robot, we develop a trajectory refinement approach formulated as an OCP."
 summary: "We introduce a video-guided planner that extends RRT using grasp and release states from instructional videos to solve complex, sequential tasks. Our method generalizes beyond the video scene and is validated on the real robot across three different tasks."
 tags:
-- Three-dimensional displays;Automation;Buildings;Benchmark testing;Planning;Task
-  analysis;Robots
+- Task-and-motion Planning
+- Manipulation planning
+- Video guided planning
 url_project: https://data.ciirc.cvut.cz/public/projects/2024TemporalPose
 ---

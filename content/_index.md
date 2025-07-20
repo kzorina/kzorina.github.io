@@ -63,8 +63,7 @@ sections:
           - publication
         exclude_featured: false
     design: 
-      view: article-grid
-      columns: 1
+      view: card
       date_format: "2006"
   - block: resume-experience
     id: experience

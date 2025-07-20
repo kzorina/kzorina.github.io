@@ -16,8 +16,8 @@ abstract: "A seamless integration of robots into human environments requires rob
 The main contributions are twofold. First, we design an alignment procedure that aligns the simulated environment with the real-world scene observed in the video. This is formulated as an optimization problem that finds a spatial alignment of the tool trajectory to maximize the sparse goal reward given by the environment. Second, we describe an imitation learning approach that focuses on the trajectory of the tool rather than the motion of the human. For this we combine reinforcement learning with an optimization procedure to find a control policy and the placement of the robot based on the tool motion in the aligned environment. We demonstrate the proposed approach on spade, scythe and hammer tools in simulation, and show the effectiveness of the trained policy for the spade on a real Franka Emika Panda robot demonstration."
 summary: "We propose a method for learning tool manipulation from unconstrained videos, removing the need for expert demonstrations. Our approach aligns the simulated environment with the video scene and uses tool-centric imitation learning to derive robot control policies. We validate the method on tools like a spade, scythe, and hammer, and demonstrate real-world success with a spade on a Franka Emika Panda robot."
 tags:
-- Tools;Robots;Task analysis;Three-dimensional displays;Reinforcement learning;Trajectory
-  optimization;Streaming media;Reinforcement learning;robotics;manipulation;imitation
-  learning;learning from video
+- Reinforcement learning
+- Trajectory optimization
+- Learning from Video
 url_project:  https://data.ciirc.cvut.cz/ public/projects/2021LearningToolMotion
 ---
