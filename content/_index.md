@@ -62,6 +62,9 @@ sections:
         folders:
           - publication
         exclude_featured: false
+    design: 
+      view: showcase
+      date_format: "2006"
   - block: resume-experience
     id: experience
     content:
