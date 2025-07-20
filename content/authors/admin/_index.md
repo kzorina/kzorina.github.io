@@ -49,7 +49,7 @@ education:
   - area: PhD Artificial Intelligence
     institution: CIIRC, CTU, Prague, Czech Republic
     date_start: 2020-03-01
-    date_end: 2025-11-01
+    date_end: ""
     summary: |
       Thesis: Learning Robotic Skills from Human Video Demonstrations
       Supervisors: Josef Sivic, Vladimir Petrik 

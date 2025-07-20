@@ -63,7 +63,8 @@ sections:
           - publication
         exclude_featured: false
     design: 
-      view: showcase
+      view: article-grid
+      columns: 1
       date_format: "2006"
   - block: resume-experience
     id: experience
