@@ -12,8 +12,10 @@ publication_types:
 - article-journal
 publication: '*IEEE Robotics and Automation Letters*'
 doi: 10.1109/LRA.2024.3502052
+featured: true
 tags:
 - Cameras;Robots;Pose estimation;Robot vision systems;Robot control;Probabilistic
   logic;Uncertainty;Smoothing methods;Predictive models;Computational modeling;Computer
   vision for automation;visual tracking
+url_project: https://data.ciirc.cvut.cz/public/projects/2023VideoGuidedTAMP
 ---
