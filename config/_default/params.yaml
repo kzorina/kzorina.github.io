@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    description: 'Robotics researcher specializing in motion planning, robot learning from videos, and manipulation.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -23,7 +23,7 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
+    google: 'Tjm8evcyI67qLhV44fXGboc_V7aFD3yf6kT785t3ImM'
     baidu: ''
 
 # Site header
@@ -58,3 +58,6 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+[seo]
+google_site_verification = "XXXX"

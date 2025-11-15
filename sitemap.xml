@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://kzorina.github.io/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/uploads/resume.pdf</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/publication/zorina-temp-pose/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/publication/zorina-video-tamp/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/publication/zorina-learning-manip-tools/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/event/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/event/example/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/publication/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/projects/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/post/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/post/get-started/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/post/second-brain/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/post/data-visualization/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/post/teach-courses/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/post/project-management/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/project/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/project/pandas/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/project/pytorch/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/project/scikit/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/experience/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/teaching/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/teaching/js/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/teaching/python/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/publication_types/article-journal/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/pose-estimation/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/robot-vision-systems/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/smoothing-methods/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/publication_types/paper-conference/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/task-and-motion-planning/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/manipulation-planning/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/video-guided-planning/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/reinforcement-learning/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/trajectory-optimization/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/learning-from-video/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/hugo/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/academic/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/second-brain/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/hugo-blox/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/markdown/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/hugo-blox-builder/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/wowchemy/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/javascript/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://kzorina.github.io/tags/python/</loc>
+  <lastmod>2025-07-20T11:20:17+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>

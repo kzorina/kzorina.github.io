@@ -8,7 +8,7 @@ authors:
 - Justin Carpentier
 - Josef Sivic
 - Vladimir Petrik
-date: '2023-01-01'
+date: '2023-05-29'
 publishDate: '2025-07-19T16:32:15.097202Z'
 publication_types:
 - paper-conference

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kzorina.github.io/sitemap.xml
