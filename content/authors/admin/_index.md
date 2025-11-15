@@ -39,6 +39,8 @@ profiles:
     url: https://scholar.google.com/citations?user=MaA_3OsAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-4697-8966
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/kateryna-zorina/
 
 interests:
   - Robotics
@@ -86,6 +88,22 @@ work:
     date_end: 2025-01-01
     summary: |
       Courses taught: Advanced Robot Kinematics (2020-2025); Geometry of Computer Vision and Graphics 2021.
+  - position: Data Scientist
+    company_name: N-IX, Lviv, Ukraine
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-05-01
+    date_end: 2020-03-01
+    summary: |
+      Designed a prototype for optimizing rebalancing routes for vehicles based on bike demand prediction, automated workflows for the finance department, and developed reporting dashboards for an electric bike client.
+  - position: Data Scientist Intern
+    company_name: Scotiabank, Toronto, Canada
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-09-01
+    date_end: 2020-12-01
+    summary: |
+      Developed machine learning models for customer lifetime value prediction using transactional data, as part of my master’s thesis project.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
